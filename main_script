@@ -38,6 +38,7 @@ tommy.goto(choice(vertices))
 i = 0
 
 # Setting the Scale Factor and Proportion
+# Source: http://larryriddle.agnesscott.org/ifs/pentagon/sierngon.htm
 x = n//4
 factor = 0
 for k in range(x):
