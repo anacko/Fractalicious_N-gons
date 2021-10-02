@@ -1,4 +1,3 @@
-#Amintor Dusko: Work in Progress
 # Drawing Sierpinski n-gons (polygons of n-sides with fractal composition)
 
 import turtle
