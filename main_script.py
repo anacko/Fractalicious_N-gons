@@ -1,4 +1,5 @@
 # Drawing Sierpinski n-gons (polygons of n-sides with fractal composition)
+
 import turtle
 import numpy as np
 from random import choice
