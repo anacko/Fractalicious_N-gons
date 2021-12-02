@@ -52,7 +52,6 @@ prop = 1-scale_factor
 
 # Drawing the fractal figure
 while (i<50000):
-
     new_ref = choice(vertices)
 
     tommy.left(tommy.towards(new_ref))
